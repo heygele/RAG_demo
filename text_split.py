@@ -7,7 +7,7 @@ class SimpleTextSplit:
     def __init__(self, chunk_size:int = 500, overlap:int = 50):
         self.chunk_size = chunk_size
         self.overlap = overlap
-
+  #
     def split(self, text:str):
         chunks = []
         start = 0
