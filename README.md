@@ -1,1 +1,1 @@
-用于RAG学习使用
+for RAG learning
